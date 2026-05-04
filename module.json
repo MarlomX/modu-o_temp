@@ -115,7 +115,7 @@
     },
     "socket": true,
     "manifest": "https://github.com/Larkinabout/fvtt-token-action-hud-core/releases/latest/download/module.json",
-    "download": "",
+    "download": "https://github.com/MarlomX/modu-o_temp/raw/refs/heads/main/module.zip",
     "protected": false,
     "coreTranslation": false,
     "library": true,
